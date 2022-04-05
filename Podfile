@@ -7,3 +7,6 @@ target 'ProjectWeather' do
   pod 'MLint', :git => 'git@mobile-code.devops.fds.com:mobile/ios_macys_app.git', :tag => 'v0.26.27'
 
 end
+
+
+Updating podfile
